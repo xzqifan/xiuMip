@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html mip>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<title>中国休闲食品加盟网_品牌页</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="https://mipcache.bdstatic.com/static/v1/mip.css">
+<link rel="canonical" href="http://m.xiuxianshipin.com/brand/1/">
+<style mip-custom>
+html,body,div,header,footer,article,h1,h2,a,ul,li,mip-img,mip-form,input,mip-link{margin:0;padding:0;}
+body{background: #F1F1F1;font:12px/1.231 SimSun,arial,helvetica,clean,sans-serif;}
+li{list-style: none;}
+.clearfix::after {clear: both;content: ".";display: block;height: 0;visibility: hidden;}
+.viewport{max-width: 640px;min-width:320px;height:auto;width:100%; margin:0 auto;display: block;}
+.m_header{background: url(images/m_header.jpg) repeat-x scroll 0 0;height: 36px;padding:0 10px; backgroug}
+.m_header h2{color:#fff;float:left;font-family: "微软雅黑";font-size: 18px; line-height: 36px;}
+.m_header .list_nav{background: url(images/m_header.jpg) no-repeat scroll 0 -80px; }
+.m_header .m_search{background: url(images/m_header.jpg) no-repeat scroll 0 -44px; color:#fff;}
+.list_nav, .m_search {display: block;float: right;height: 20px;margin-top: 8px;overflow: hidden;text-indent: -9999px;width:20px;margin-left: 8px;}
+
+.mip-nav-wrapper .show{opacity: 1 !important;}
+.mip-nav-wrapper{width:100%;float:right; background: #fff; height: 50px; display: block;}
+.mip-nav-wrapper #bs-navbar .navbar-nav {line-height:25px;margin:0;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li{line-height: 25px; font-size: 16px;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li mip-link{color:#222; padding:16px; padding:0; }
+.mip-nav-wrapper #bs-navbar .navbar-nav mip-link, .mip-nav-wrapper #bs-navbar .navbar-nav a{margin:12px;}
+
+@media screen and (max-width:640px){
+.mip-nav-wrapper{height:44px; background-color: #0C1A44; display: block;}
+.mip-nav-wrapper #bs-navbar {height:0;min-height: 1px;transition: height 0.3s;width:100%;left:0; overflow-y:scroll;z-index: 1000;border:0;float:none;position:absolute;background-color: #fff;}
+.mip-nav-wrapper #bs-navbar .navbar-nav{margin:0;min-height: 283px;height: 100%;-ms-flex-direction: column;flex-direction: column; line-height:25px;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li{border-bottom: 1px solid #eee; line-height: 25px;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li mip-link{color:#333; width:100%; }
+.mip-nav-wrapper #bs-navbar .navbar-nav li .doc-body{width:100%;border-bottom: 1px solid #eee;}
+}
+
+.m_nav{background:#E7E7E7; line-height: 38px; height: 38px; overflow: hidden;}
+.m_nav span{background: url(images/m_header.jpg) no-repeat scroll 10px -146px; padding: 0 10px 0 32px;display: block;}
+.m_nav span mip-link{padding:0 5px; display: inline;}
+
+.brand_detail{padding:10px; background: #fff;}
+.brand_detail dl dt{border:1px solid #ccc; border-radius:0.3em; box-shadow: 0 5px 5px #eee;float:left;height: 75px;padding:5px; width:100px;}
+.brand_detail dl dt mip-img{height: 75px; width:100px;}
+.brand_detail dl dd{margin-left:122px; line-height: 25px; }
+.brand_detail dl dd h1{color:#c20f04; font-size:18px;}
+.brand_detail dl dd em{color:#f00; font-size:14px; font-style: normal; display: block;}
+.brand_detail dl dd strong{font-weight: 100;}
+
+.brand_js2{margin-top:10px; border:1px dashed #d7d7d7; line-height: 22px; padding:6px 10px; background: #f9f9f9;border-radius: 0.3em}
+.ly_button{height: 36px; padding:4px 0;}
+.ly_button mip-link{color: #fff;display: block; float: left;padding:5px 10px;line-height: 26px;width: 60px;border-radius: 3px;background:#C61006; text-align: center; font-size:14px;}
+
+.brand_content {width:100%;background: #fff;}
+.brand_content h2{background:#E7E7E7; color:#f00; padding:5px 10px;}
+.brand_content1{padding:10px; }
+.brand_content1 p{font-size:14px; text-indent: 2em; line-height: 26px;}
+.brand_content1 mip-img{margin:0;padding:0;}
+.brand_content1 .zixun{margin:10px auto;  box-sizing: 100%;}
+.zixun mip-link{width:40%; display: block;float:left; color:#fff;text-align: center;border-radius: 0.3em;margin:0 5%;line-height: 30px; font-size: 16px; padding:5px auto;}
+.zixun #zixun1{background: #D9534F;}
+.zixun #zixun2{background: #3181C7;}
+
+.brand_content1 ul li{border: 1px solid #ccc; height:100px; width:102px; float:left; padding:2px; overflow: hidden;text-align: center;margin-right:5px;}
+.brand_content1 ul li mip-img{margin:0 auto; height: 75px;}
+.brand_content1 ul li p{text-align: left;}
+
+.liuyan{width:100%;background: #fff;}
+.liuyan h2{background: #C61006; line-height:24px;color:#fff;padding:5px 10px;display: block; font-size: 14px;}
+.liuyan mip-form{background: #FFF7E0; border: 1px solid #f00; border-radius:0.3em; margin:10px 5px;display: block;}
+.liuyan mip-form ul li{line-height: 32px; display: block;overflow: hidden;padding:5px 0;}
+.liuyan mip-form ul li span{margin-left:2%;font-size: 1.2em;float:left;padding: 5px 0;}
+.liuyan mip-form ul li input{padding: 5px;margin:5px; width:80%; display:block; }
+#tijiao{background: #C61006;color:#fff; width:30%; padding:8px 15px; font-size:1.4em;}
+
+footer{margin:15px 0; background: #eee; margin:0 auto;width:100%;}
+footer p{line-height: 26px; font-size: 12px; text-align: center;}
+</style>
+</head>
+<body>
+<div id="to_top" class="viewport">
+<div class="m_header">
+	<h2><mip-link href="//m.xiuxianshipin.com/">中国休闲食品加盟网</mip-link></h2>
+	<mip-link href="http://m.xiuxianshipin.com/index.php/search/" class="m_search"></mip-link>
+</div>
+
+<div class="mip-nav-wrapper">
+<mip-nav-slidedown data-id="bs-navbar" class="mip-element-sidebar container">
+    <nav id="bs-navbar" class="navbar-collapse collapse navbar navbar-static-top">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="index-body"><mip-link href="http://m.xiuxianshipin.com/">首页</mip-link></li>
+            <li class="doc-body"><mip-link href="#">零食店品牌</mip-link></li>
+            <li class="timeline-body"><mip-link target="_blank" href="http://m.xiuxianshipin.com/">休闲零食</mip-link></li>
+            <li class=""><mip-link target="_blank" href="#">加盟指南</mip-link></li>
+            <li class=""><mip-link target="_blank" href="#">加盟指南</mip-link></li>
+            <li class=""><mip-link target="_blank" href="#">加盟指南</mip-link></li>
+            <li class=""><mip-link target="_blank" href="#">加盟指南</mip-link></li>
+            <li class="navbar-wise-close">
+                <span id="navbar-wise-close-btn"></span>
+            </li>
+        </ul>
+    </nav>
+</mip-nav-slidedown>
+</div>
+<div class="clearfix"></div>
+<div class="m_nav">
+	<span><mip-link src="/"> 首页 </mip-link>  > <mip-link src="//xiuxianshipin.com/brand/">零食店加盟 </mip-link> > 详情：</span>
+</div>
+
+<div class="brand_detail">
+	<dl class="clearfix">
+	<dt><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2014/11/24/c37b08eae935f1dd58540c68bdf0023e.jpg"></mip-img></dt>
+	<dd>
+		<h1>来伊份</h1>
+		<em>投资金额：3万以下</em>
+		<strong>所在区域：上海</strong>
+	</dd>
+	</dl>
+	<div class="brand_js2">
+		<p><strong>项目特色：</strong>利润高、投资小、风险低</p>
+		<p><strong>公司名称：</strong>河北云海食品有限公司</p>
+		<div class="ly_button">
+			<mip-link href="#" class="ly_b1">快速留言</mip-link>
+		</div>
+	</div>
+</div>
+
+<div class="brand_content">
+	<h2>品牌介绍</h2>
+	<div class="brand_content1 clearfix">
+	<p style="text-indent:2em;">
+	来伊份作为中国休闲食品连锁零售业的领导品牌，目前在上海、江苏、浙江等9个省、直辖市拥有近2400家专卖店，每年为近6000万人次提供优质食品。从1999年家门店开业起，来伊份陆续推出过炒货、肉制品等9大系列700多种食品。2013年销售额超过30亿，全国员工人数近1万名。“三好一公道”是来伊份的经营理念，即品质好、味道好、服务好和价格公道。
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;" >
+	<mip-img title="来伊份休闲食品连锁门店实景" src="http://www.xiuxianshipin.com/public/images/upload/2015/03/06/a509fa5931063db5c0f3e5b0d0d78cdc.jpg" alt="来伊份休闲食品连锁门店实景"> </mip-img>
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;">
+	来伊份致力于带给顾客“一站式”的便捷服务，其开架的购物方式，方便顾客轻松搭配、自由选购。网购来伊份很便捷，除了与各大购物网站合作外，还开通了官方网站商城和手机APP平台，并在业界率先推出“线上购物线下自提”和“线下门店代购线上商品”等O2O服务。来伊份食品种类丰富，顾客可以在炒货、肉制品、蜜饯、水产品、糖果/果冻、膨化、果蔬、豆制品、糕点等九大系列食品中，恣意挑选自己喜欢的休闲食品。而实施多年的“七天无需理由退货”售后服务，更让顾客消费的放心无忧。
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;">
+	从田园到舌尖，来伊份始终坚守为顾客提供安全优质食品的信念。从农副产品的种植、养殖，到现代化的生产加工；从流通环节的运输仓储，到配送至各个门店，并传递给每位顾客；来伊份始终致力于食品安全产业链的打造。来伊份注重选材的新鲜和时令，并将传统的秘制工艺和现代化的加工技术相结合。从新鲜营养的美味坚果，少用添加剂的天然果干，到纯正精选的肉制品；从优选产地，精选原料，到科学的生产工艺；来伊份致力于提供优质、健康的食品。
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;">
+	来伊份构建了“乡村作物城市落户”的新型产业链，提升了农副产品的附加值，帮助很多供应商发展成为当地的经济龙头企业，还间接创造了近3万生产加工岗位。仅2013年就采购10多亿的产品投放市场，并使得10多万农民在产业链上游的种植、养殖工作中安居乐业，极大促进了中国三农经济的发展。近三年来伊份上缴国家税金近8亿元。
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;">
+	<mip-img title="来伊份休闲食品连锁创新无店经营模式" src="http://www.xiuxianshipin.com/public/images/upload/2015/03/06/460f9ad8adc8e3f6291a34565ba3f699.jpg" alt="来伊份休闲食品连锁创新无店经营模式" > </mip-img>
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;">
+	来伊份在自身发展的同时，不忘主动积极的回馈社会。2006年来伊份与上海慈善基金会合作成立“来伊份助学基金”，2008年捐助汶川灾区，2009年援建四川中江县通济镇“来伊份希望小学”，2013年时间往雅安灾区援送救灾食品。2009年与海洋大学等院校合作建立“青年就业创业见习基地”，2012和2013年参与“爱飞翔?乡村教师培训”活动。还捐助上海民建公益基金会、上海国际少年儿童文化艺术节等公益项目。来伊份是中国下一代教育基金会健康成长基金会的爱心机构，上海市社会帮教志愿者协会的会员单位。
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>
+<p style="text-indent:2em;">
+	来伊份重视员工的发展，努力为员工打造佳的成长空间。在来伊份门店有5千多名“40、50”的妇女，她们作为社会就业群体中的相对弱势者，通过来伊份的培养，就业技能得到大幅提升，并成长为中国休闲食品连锁零售业的杰出服务人员。同时，来伊份是数家大学院校的大学生见习和就业基地，这些学生在来伊份获得充分的学习和成长机会，并逐步成长为连锁企业管理方面的优秀骨干。员工们还常会获得跨职能的培训和成长，成为多元化发展的佼佼者。而专门资助内部员工的“来伊份阳光基金”已设立多年，帮助困难员工解决了他们的燃眉之急。
+</p>
+
+<p style="text-indent:2em;">
+	来伊份作为一家休闲食品连锁零售企业，我们一直倡导良心工程和道德产业，并传承休闲文化，为推动中国社会休闲生活的进步不懈努力！
+</p>
+
+		<div class="zixun">
+			<mip-link href="" id="zixun1">开店咨询</mip-link>
+			<mip-link href="" id="zixun2">索要资料</mip-link>
+		</div>
+	</div>
+    
+	<h2 class="bt_bg">产品列表</h2>
+	<div class="brand_content1 clearfix">
+    	<ul>		        
+			<li><mip-link href="http://m.xiuxianshipin.com/index.php/item/4/"><mip-img src="http://www.xiuxianshipin.com/public/images/upload/2014/11/22/c2544486a358042ca57213867a722523.jpg" alt="巴旦木仁180g"></mip-img></mip-link><p><mip-link href="http://m.xiuxianshipin.com/index.php/item/4/">巴旦木仁180g</mip-link></p></li>
+			<li><mip-link href="http://m.xiuxianshipin.com/index.php/item/4/"><mip-img src="http://www.xiuxianshipin.com/public/images/upload/2014/11/22/c2544486a358042ca57213867a722523.jpg" alt="巴旦木仁180g"></mip-img></mip-link><p><mip-link href="http://m.xiuxianshipin.com/index.php/item/4/">巴旦木仁180g</mip-link></p></li>
+			<li><mip-link href="http://m.xiuxianshipin.com/index.php/item/3/"><mip-img src="http://www.xiuxianshipin.com/public/images/upload/2014/11/22/9c696c8f0208863f613ae86516224989.jpg" alt="巴旦木仁180g"></mip-img></mip-link><p><mip-link href="http://m.xiuxianshipin.com/index.php/item/4/">本色开心果250g</mip-link></p></li>               
+       </ul>
+	</div>        
+</div>
+
+<div class="liuyan">
+	<h2>在线留言(客服将在第一时间与您联系)</h2>
+	<mip-form method="post" url="" clear="true">
+		<ul class="clearfix">
+		<li><span>姓名：</span><input type="input" name="username" placeholder="姓名"></li>
+		<li><span>电话：</span><input type="input" name="phone" validatetype="must" validatetarget="phone" placeholder="电话"></li>
+		<div class="mip-form-target" target="phone">填写正确的电话格式</div>
+		<li><span>留言：</span><input type="input" name="text" placeholder="请您留言"></li>
+		<li><input type="submit" name="post" value="提交留言" id="tijiao"></li>
+		</ul>
+	</mip-form>
+</div>
+
+<footer>
+	<p>备案号：沪ICP备15007550号</p>
+	<p>Tel:4008813178 | 上海佐赛网络科技有限公司 版权所有</p>
+	<p>地址:中国上海市沪太路4361号(呼叫中心产业基地)</p>
+</footer>
+
+
+</div>
+
+<script src="https://mipcache.bdstatic.com/static/v1/mip.js"></script>
+<script src="https://mipcache.bdstatic.com/static/v1/mip-form/mip-form.js"></script>
+<script src="https://mipcache.bdstatic.com/static/v1/mip-nav-slidedown/mip-nav-slidedown.js"></script>
+<script src="https://mipcache.bdstatic.com/static/v1/mip-link/mip-link.js"></script>
+</body>
+</html>
