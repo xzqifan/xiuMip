@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html mip>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<title>中国休闲食品加盟网</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="https://mipcache.bdstatic.com/static/v1/mip.css">
+<link rel="canonical" href="http://m.xiuxianshipin.com/">
+<style mip-custom>
+html,body,div,header,footer,article,h1,h2,a,ul,li,img,mip-form,input{margin:0;padding:0;}
+body{background: #F1F1F1;font:12px/1.231 SimSun,arial,helvetica,clean,sans-serif;}
+li{list-style: none;}
+.clearfix::after {clear: both;content: ".";display: block;height: 0;visibility: hidden;}
+.viewport{max-width: 640px;min-width:320px;height:auto;width:100%; margin:0 auto;display: block;}
+header{background: #C31006;width:100%; }
+header h1{color:#fff;text-align: center; padding:15px;}
+.search{padding:8px 2%; margin:0 auto;}
+mip-form{height: 32px;position:relative;}
+input{margin:0 auto; border-radius: none;}
+.textval_on{padding:5px; width:80%; float:left; height: 32px;}
+.h_button{float:left;}
+#cc{padding:4px 0;height: 32px; background: #ccc;border-radius: 0;display: block;width:16%;}
+
+/**
+<!--
+.mip-nav-wrapper .show{opacity: 1 !important;}
+.mip-nav-wrapper{width:100%;float:right; background: #fff; height: 50px;}
+.mip-nav-wrapper #bs-navbar .navbar-nav {line-height:25px;margin:0;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li{line-height: 25px;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li mip-link{color:#222; padding:16px; padding:0; }
+.mip-nav-wrapper #bs-navbar .navbar-nav mip-link, .mip-nav-wrapper #bs-navbar .navbar-nav a{margin:12px;}
+
+@media screen and (max-width:640px){
+.mip-nav-wrapper{height:44px; background-color: #0C1A44;}
+.mip-nav-wrapper #bs-navbar {height:0;min-height: 1px;transition: height 0.3s;width:100%;left:0; overflow-y:scroll;z-index: 1000;border:0;float:none;position:absolute;background-color: #fff;}
+.mip-nav-wrapper #bs-navbar .navbar-nav{margin:0;min-height: 283px;height: 100%;-ms-flex-direction: column;flex-direction: column;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li{border-bottom: 1px solid #eee;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li mip-link{color:#333; width:100%;}
+.mip-nav-wrapper #bs-navbar .navbar-nav li .doc-body{width:100%;border-bottom: 1px solid #eee;}
+}
+-->
+**/
+nav{width:100%;line-height: 48px;border-bottom: 1px solid #ddd;height: 48px;font-family: Microsoft YaHei;font-style: normal;}
+nav ul li{float:left;  font-size: 1.4em;color:#708298;cursor: pointer; text-align: center;width:25%;}
+.xnav{width:100%;font-size: 18px;color:#708298; text-align: center;}
+.xnavm{border-radius: 5px; overflow: hidden; margin:0 auto;}
+.znav{ background: #fff;border: 1px solid #d8dfe4;border-radius: 4px 0 4px 4px;display: none;left: 0;height:auto;position: absolute;text-align: center;top: 148px;width:100%;z-index: 1000;}
+nav li:hover .xnav{color:#f00;}
+nav li:hover .znav{display:block;-webkit-box-shadow:0 0 10px #C7D0D8;-moz-box-shadow:0 0 10px #C7D0D8; box-shadow:0 0 10px #C7D0D8;margin:0 auto;}
+
+nav li:first-child .znav s{border-color: #d8dfe4;border-style: dashed dashed solid;border-width: 10px;display: block;font-size: 0;height: 0;left:14%;line-height: 0;position: absolute; top:-21px;width:0;}
+nav li:nth-child(2) .znav s{position:absolute;top:-21px;left:37%;display:block;height:0;width:0;font-size: 0;line-height: 0;border-color:transparent transparent #d8dfe4 transparent;border-style:dashed dashed solid dashed;border-width:10px;}
+nav li:nth-child(3) .znav s{position:absolute;top:-21px;left:60%;display:block;height:0;width:0;font-size: 0;line-height: 0;border-color:transparent transparent #d8dfe4 transparent;border-style:dashed dashed solid dashed;border-width:10px;}
+nav li:last-of-type .znav s{position:absolute;top:-21px;right:14%;display:block;height:0;width:0;font-size: 0;line-height: 0;border-color:transparent transparent #d8dfe4 transparent;border-style:dashed dashed solid dashed;border-width:10px;}
+.znav i{position:absolute;top:-9px;left:-10px;display:block;height:0;width:0;font-size: 0;line-height: 0;border-color:transparent transparent #fff transparent;border-style:dashed dashed solid dashed;border-width:10px;}
+.znav mip-link{border-bottom: 1px solid #ddd;border-right: 1px solid #ddd;color: #666;display: block;float: left;font-size: 1.2em;
+    height: 50px;line-height: 50px;text-align: center;text-decoration: none;width: 33%;}
+.znav mip-link:hover{background: #efefef;}
+
+.xxnav{width:100%; height:50px; background:#C31006;text-align:center; display:block; font-size:1em;}
+.xxnav mip-link{width:25%; height:50px; float:left; display:inline-block; text-align:center; background:#F45E60; color:#FFF;}
+.xxnav mip-link i{ display:block; max-width:26px; height:24px; margin:3px auto; line-height:24px;font-style: normal;font-family: Microsoft YaHei; }
+.xxnav mip-link i mip-img{ max-width:100%; max-height:100%; display:block; margin:0 auto;}
+
+/*#xxnav mip-link:hover{ background:#EB4748;}*/
+
+
+
+.lubo{ background-color: #fff;display: block; margin:0 auto;text-align: center;}
+mip-carousel mip-img{max-width:100%;width:auto;height:auto;max-height: 100%;}
+mip-carousel{width:auto;max-width: 100%;height:auto;max-height: 100%;}
+
+.brand{width:100%;margin:5px auto;background: #fff; display: block;}
+.brand h2{margin:5px auto; padding:5px 0; width:100%;background: #C31006;}
+.brand h2 span{font-size: 14px;color:#fff;margin-left:2%;}
+.brand ul{ padding-top: 10px; width: 100%;}
+.brand ul li{float:left; border-radius: 0.2em;width:50%;margin-bottom: 10px;}
+.brand ul li span{display: block;border:1px solid #EBEBEB;margin:5px 10px;height: 121px;width:120px;box-shadow: 0 5px 5px #eee;overflow: hidden;margin:0 auto;padding:3px;}
+.brand ul li span mip-link mip-img{width:120px; height: 90px;margin:0 auto;}
+.brand ul li strong{display: block;font-size: 12px;font-weight: 100;height: 31px;line-height: 31px;overflow: hidden;text-align: center;}
+@media only screen and (min-width: 540px){
+.brand ul li{float:left; border-radius: 0.2em;width:25%;}
+}
+@media only screen and (max-width: 540px) and (min-width:380px){
+.brand ul li{float:left; border-radius: 0.2em;width:33.33%;}
+}
+@media only screen and(max-width: 380px){
+.brand ul li{float:left; border-radius: 0.2em;width:50%;}
+}
+
+.product{width:100%;margin:5px auto;background: #fff; display: block;}
+.product h2{margin:5px auto; padding:5px 0; width:100%;background: #C31006;}
+.product h2 span{font-size: 14px;color:#fff;margin-left:2%;}
+.product ul{ padding-top: 10px; width: 100%;}
+.product ul li{float:left; border-radius: 0.2em;width:50%;margin-bottom: 10px;}
+.product ul li span{display: block;border:1px solid #EBEBEB;margin:5px 10px;height: 121px;width:120px;box-shadow: 0 5px 5px #eee;overflow: hidden;margin:0 auto;padding:3px;}
+.product ul li span mip-mlink mip-img{width:120px;height: 90px;margin:0 auto;}
+.product ul li strong{display: block;font-size: 12px;font-weight: 100;height: 31px;line-height: 31px;overflow: hidden;text-align: center;}
+@media only screen and (min-width: 540px){
+.product ul li{float:left; border-radius: 0.2em;width:25%;}
+}
+@media only screen and (max-width: 540px) and (min-width:380px){
+.product ul li{float:left; border-radius: 0.2em;width:33.33%;}
+}
+@media only screen and(max-width: 380px){
+.product ul li{float:left; border-radius: 0.2em;width:50%;}
+}
+
+.zixun{width:100%;margin:5px auto;background: #fff; display: block;}
+.zixun h2{margin:5px auto; padding:5px 0; width:100%;background: #C31006;}
+.zixun h2 span{font-size: 14px;color:#fff;margin-left:2%;}
+.zixun ul li{width:100%; float:left;font-size: 14px;}
+.zixun ul li mip-link{float:left; line-height: 24px;margin-left: 10px;color:#333;}
+.zixun ul li em{float:right;margin-right: 10px; font-style:normal; color:#999;}
+
+.liuyan{width:100%;margin:5px auto;background: #fff; display: block;}
+.liuyan h2{margin:5px auto; padding:5px 0; width:100%;background: #C31006;}
+.liuyan h2 span{font-size: 14px;color:#fff;margin-left:2%;}
+.liuyan mip-form{width:100%; display: block;background: #ebebeb;height: auto;}
+.liuyan mip-form ul li{width:100%;float:left; padding:5px 10px; display: block;}
+.liuyan mip-form ul li strong{padding:5px; line-height: 24px;float:left;}
+.liuyan mip-form ul li input{float:left; padding:5px; box-sizing:border-box; background: #fff; width:75%;}
+#form_submit{width:100px; padding:10px;background: #C61006;color: #fff;}
+
+footer{margin:15px 0; background: #eee; margin:0 auto;width:100%;}
+footer p{line-height: 26px; font-size: 12px; text-align: center;}
+
+</style>
+</head>
+<body class="viewport">
+<div class="doc-body">
+<header>
+	<h1>中国休闲食品加盟网</h1>
+	<div class="search">
+	<mip-form method="post" url="">
+		<input type="input" name="kw" class="textval_on" placeholder="输入您要查找的项目或行业">
+		<input type="submit" name="" value="搜索" class="h_button" id="cc">
+	</mip-form>
+	</div>
+</header>
+
+<nav>
+	<ul>
+		<li><mip-link href="http://mip.xiuxianshipin.com/">首页</mip-link></li>
+		<li>
+			<span class="xnav xnavm">品牌大全</span>
+			<div class="znav">
+				<s><i></i></s>
+				<mip-link href="http://mip.xiuxianshipin.com/blist/lingshi_1/">零食店加盟</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/blist/jinkou_2/">进口食品加盟</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/blist/douzhipin_3">豆制品加盟</mip-link>
+            	<mip-link href="http://mip.xiuxianshipin.com/blist/guoren_4/">坚果果仁加盟</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/blist/penghua_5/">膨化食品加盟</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/blist/tangguo_6/">糖果加盟</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/blist/roushi_7/">肉类食品加盟</mip-link>
+			</div>
+		</li>
+		<li>
+			<span class="xnav xnavm">零食分类</span>
+			<div class="znav">
+				<s><i></i></s>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/binggangd_1/">饼干糕点</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/roulei_6/">肉类制品</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/yinpin_34/">休闲饮品</mip-link>
+            	<mip-link href="http://mip.xiuxianshipin.com/ilist/tangguo_19/">糖果</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/mijianguogan_25/">蜜饯果干</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/jianguochaohuo_29/">坚果炒货</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/penghualingshi_42/">膨化零食</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/doujunsun_47/">豆菌笋类</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/sushi_51/">速食</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/techanlingshi_55/">特产零食</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/ilist/jinkoulingshi_56/">进口零食</mip-link>
+			</div>
+		</li>
+		<li>
+			<span class="xnav xnavm">加盟指南</span>
+			<div class="znav">
+				<s><i></i></s>
+				<mip-link href="http://mip.xiuxianshipin.com/index.php/nlist/1/">加盟指南</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/index.php/nlist/2/">行业资讯</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/index.php/nlist/3/">成本分析</mip-link>
+            	<mip-link href="http://mip.xiuxianshipin.com/index.php/nlist/4/">零食店利润</mip-link>
+				<mip-link href="http://mip.xiuxianshipin.com/index.php/bnlist/0/">品牌新闻</mip-link>
+			</div>
+		</li>
+	</ul>
+</nav>
+<!--
+<div class="mip-nav-wrapper">
+<mip-nav-slidedown data-id="bs-navbar" class="mip-element-sidebar container">
+    <nav id="bs-navbar" class="navbar-collapse collapse navbar navbar-static-top">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="index-body"><mip-link href="http://m.xiuxianshipin.com/">首页</mip-link></li>
+            <li class="doc-body"><mip-link href="#">零食店品牌</mip-link></li>
+            <li class="timeline-body"><mip-link target="_blank" href="http://m.xiuxianshipin.com/">休闲零食</mip-link></li>
+            <li class=""><mip-link target="_blank" href="#">加盟指南</mip-link></li>
+            <li class="navbar-wise-close">
+                <span id="navbar-wise-close-btn"></span>
+            </li>
+        </ul>
+    </nav>
+</mip-nav-slidedown>
+</div>
+-->
+
+
+<div class="lubo">
+<mip-carousel
+    autoplay
+    layout="response" defer="2000"
+    width="640" 
+    height="200">
+    <mip-img popup class="mip-img"
+        src="http://m.ysgshipin.com/templets/default/images/flash/1.jpg">
+    </mip-img>
+    <mip-img 
+        src="http://m.528shipin.net/public/images/flash2.jpg">
+    </mip-img>
+    <mip-img 
+        src="http://m.528shipin.net/public/images/flash3.jpg">
+    </mip-img>
+</mip-carousel>
+</div>
+
+<div class="brand">
+	<h2><span>热门项目推荐</span></h2>
+	<ul class="clearfix">
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/09/21/085a63a51da07cdeefd8fcf18c7606d4.jpg" alt="潘氏兄弟"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/brand/1291/">潘氏兄弟</mip-link></strong></span></li>
+	</ul>
+</div>
+
+<div class="product">
+	<h2><span>畅销产品推荐</span></h2>
+	<ul class="clearfix">
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+		<li><span><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/"><mip-img src="http://m.xiuxianshipin.com/public/images/upload/2016/05/19/f83e047e101902202b9cf6901cfeca50.jpg" alt="卢司令木瓜干"></mip-img></mip-link><strong><mip-link href="http://m.xiuxianshipin.com/index.php/item/666/">卢司令木瓜干</mip-link></strong></span></li>
+	</ul>
+</div>
+
+<div class="zixun">
+	<h2><span>最新资讯</span></h2>
+	<ul class="clearfix">
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+		<li><mip-link href="http://m.xiuxianshipin.com/index.php/news/9701/">零食店加盟十大品牌</mip-link><em>2016-10-13</em></li>
+	</ul>
+</div>
+
+<div class="liuyan">
+	<h2><span>在线留言(客服在第一时间联系您)</span></h2>
+	<mip-form method="post" url="" clear="true">
+	<ul class="clearfix">
+		<li><strong>*姓名：</strong><input type="input" name="username" validatetarget="username" validatetype="must" placeholder="姓名" ></li>
+		<div class="mip-form-target" target="username">姓名不能为空</div>
+		<li><strong>*电话：</strong><input type="input" name="phone" validatetarget="phone" validatetype="phone" placeholder="电话"></li>
+		<div class="mip-form-target" target="phone">填写正确的电话格式</div>
+		<li><strong>留 言：</strong><input type="input" name="content"  placeholder="留言内容"></li>
+		<li><input type="submit" value="提 交" id="form_submit" ></li>
+	</ul>
+	</mip-form>
+</div>
+
+<footer>
+	<p>备案号：沪ICP备15007550号</p>
+	<p>Tel:4008813178 | 上海佐赛网络科技有限公司 版权所有</p>
+	<p>地址:中国上海市沪太路4361号(呼叫中心产业基地)</p>
+</footer>
+</div>
+
+<mip-fixed type="bottom">		
+	<div class="xxnav">
+		<mip-link href="http://mip.xiuxianshipin.com/"><i><mip-img src="http://mip.xiuxianshipin.com/public/images2/index.png"></mip-img>首页</i></mip-link>
+		<mip-link href="http://mip.xiuxianshipin.com/blist/all/"><i><mip-img src="http://mip.xiuxianshipin.com/public/images2/list.png"></mip-img>品牌</i></mip-link>
+		<mip-link href="http://mip.xiuxianshipin.com/ilist/all/"><i><mip-img src="http://mip.xiuxianshipin.com/public/images2/xinxin.png"></mip-img>零食</i></mip-link>
+		<mip-link href="http://mip.xiuxianshipin.com/index.php/bnlist/0/"><i><mip-img src="http://mip.xiuxianshipin.com/public/images2/news.png"></mip-img>资讯</i></mip-link>
+	</div>
+</mip-fixed>
+
+<script src="https://mipcache.bdstatic.com/static/v1/mip.js"></script>
+<script src="https://mipcache.bdstatic.com/static/v1/mip-form/mip-form.js"></script>
+<script src="https://mipcache.bdstatic.com/static/v1/mip-link/mip-link.js"></script>
+</body>
+</html>
